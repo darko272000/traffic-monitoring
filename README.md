@@ -11,7 +11,7 @@ Watch the following videos to get an in-depth understanding of AITMS's capabilit
 ### Real-time Car Detection with YOLO v8
 
 <video width="640" height="360" controls>
-  <source src="yolo_detection.mp4" type="video/mp4">
+  <source src="bandicam 2024-01-07 02-56-44-211.mp4.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
