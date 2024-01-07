@@ -1,4 +1,4 @@
-# AITMS: Advanced Traffic Management System
+
 
 <p align="center">
   <img src="AI-04.svg" alt="TrafficEye Logo">
